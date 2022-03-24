@@ -1,0 +1,2 @@
+# autoscript_js
+javascript脚本用于autojs手机自动挂机脚本
