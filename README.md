@@ -1,2 +1,4 @@
 # autoscript_js
 javascript脚本用于autojs手机自动挂机脚本
+
+app里存放了免费版的autojs软件，安装到手机
